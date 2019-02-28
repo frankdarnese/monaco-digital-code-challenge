@@ -33,6 +33,8 @@ This is a __simple API__ fetching from a public recipe website. It has a restric
 ### Responsiveness.
 
 - CSS Grid
+
 - Flexbox
+
 - rems instead of pixels
 
