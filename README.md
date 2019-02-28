@@ -29,7 +29,7 @@ You can visit the API at: http://api.frankdarnese.com/
 
 - I have created a fresh, simple and modern layout with a quite obvious search bar which is self-explanatory.
 
-- Cross-browser compatibility 
+### Cross-browser compatibility 
 
 - CSS Prefixes
 
