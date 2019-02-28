@@ -1,0 +1,32 @@
+*.sass-cache
+*.cache
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
+
+# NPM packages folder.
+node_modules/
+
+# Logs
+logs
+*.log
+
+# NPM debug log.
+npm-debug.log*
+
+# Yarn debug log.
+yarn-debug.log*
+yarn-error.log*
+
+# Gulp folder for temporary files.
+tmp/
+
+# Gulp output folder.
+public/
+
+# VisualStudioCode files.
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
