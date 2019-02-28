@@ -26,7 +26,7 @@ This is a __simple API__ fetching from a public recipe website. It has a restric
 
 - I have created a fresh, simple and modern layout with a quite obvious search bar which is self-explanatory.
 
-###Cross-browser compatibility 
+- Cross-browser compatibility 
 
 - CSS Prefixes
 
