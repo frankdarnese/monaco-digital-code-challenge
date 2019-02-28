@@ -2,6 +2,11 @@
 
 This is a __simple API__ fetching from a public recipe website. It has a restricted number of API requests.
 
+You can visit the API at:
+
+http://api.frankdarnese.com/
+
+
 ## Factors considered:
 
 ### Code quality / linting
